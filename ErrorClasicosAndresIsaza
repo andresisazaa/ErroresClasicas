@@ -1,0 +1,9 @@
+Diseño inadecuado: Al tratar de acelerar el inicio de desarrollo de un producto de software, se puede incurrir en no hacer una correcta abstracción del problema, que puede traer la necesidad de un rediseño a futuro, que a su vez implica un incremento en costos y tiempos.
+
+Falta de participación del usuario: Si no hay una participación adecuada del usuario, puede que el producto de software desarrollado no cumpla con las expectativas y requerimiento del usuario. Es importante una participación activa del usuario para que los requerimientos del proyecto estén muy claros para el equipo de desarrollo. 
+
+Planificación excesivamente optimista: Los retos a los que se enfrenta un desarrollador en una aplicación que se debe hacer en un plazo de 3 meses son diferentes a los retos de una aplicación que tiene un plazo mayor, por ejemplo de un año. Ser optimista en la planificación puede causar que se inflavalore las necesidades del proyecto, además también puede generar mucha presión sobre los desarrolladores el hecho de tener que cumplir con una planificación a corto tiempo.
+
+Cambió de las prestaciones: Cuando ocurren cambios en los requirimentos, las funcionalidades ya realizadas pueden ser cambiadas, lo que genera un reproceso para cumplir con los nuevos requerimientos especificados.
+
+Exceso de requerimientos: Cuándo el proyecto tiene más requerimentos de los que en verdad son necesarios, por ejemplo querer optimizar al máximo el rendimiento para escenarios que tal vez no se presenten, la planificación de las tareas puede ser excesiva e incurrir en aumentar los tiempos de entrega del producto.
